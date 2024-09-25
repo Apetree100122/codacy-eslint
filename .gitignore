@@ -1,10 +1,2 @@
-.idea
-/node_modules
-.metals
-/dist
-tsconfig.tsbuildinfo
-.DS_Store
-.vscode
-.codarcyrc
-/tests
-.eslintcache
+.idea / node_modules .metals / dist  tsconfig.ts
+buildinfo   .DS_Store  .vscode  .codarcyrc / tests  .eslintcache
